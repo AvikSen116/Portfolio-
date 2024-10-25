@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 A professional portfolio website to showcase my expertise in Java development, UI/UX design, data analysis, and machine learning. This project highlights my technical skills, projects, and contact information in an intuitive and visually appealing format.
-### 🌟 Live Link : https://aviksen116.github.io/Personal-Portfolio-Website/
+###  Live Link : https://aviksen116.github.io/Personal-Portfolio-Website/
 ## 🌟 Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
